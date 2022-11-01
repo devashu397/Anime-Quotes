@@ -1,0 +1,28 @@
+body {
+  background-color: #990000;
+  font-family: "Poor Story", cursive;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+  color: #ff5b00;
+}
+
+h2.quoteinfo {
+  padding-top: 10px;
+  text-align: center;
+  color: #ff5b00;
+}
+
+div.buttondiv {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button {
+  font-family: "Poor Story", cursive;
+  text-align: center;
+  height: 25px;
+  width: 200px;
+}
